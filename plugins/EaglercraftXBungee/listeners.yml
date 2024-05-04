@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&e-&6-&e-&6-&e-&6-&e-&6-&e- &6&lThe JunarMC Network &e-&6-&e-&6-&e-&6-&e-&6-&e-'
-  - '&6&l|  &e In Development  &6&l| &3  play.junarmc.xyz    &6&l|  &eReleasing Soon &6&l|'
+  - '&9-&a-&9-&a-&9-&a-&9-&a-&9- &a&lJunarMC RPG Network &9-&a-&9-&a-&9-&a-&9-&a-&9-'
+  - '&a&l|  &9 In Development &a&l| &a&lJunarMC &a&l| &9Releasing Soon &a&l|'
   allow_motd: true
   allow_query: true
   request_motd_cache:
