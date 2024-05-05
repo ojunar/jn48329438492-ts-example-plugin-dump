@@ -3,7 +3,7 @@ FROM ubuntu:latest AS build
 RUN apt-get update
 RUN apt-get install openjdk-17-jdk -y
 
-EXPOSE 25577
+EXPOSE 25565
 EXPOSE 8081
 COPY . .
 CMD ["ls"]
