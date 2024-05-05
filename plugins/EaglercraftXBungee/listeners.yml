@@ -2,7 +2,7 @@
 listener_01:
   address: 0.0.0.0:8081
   address_v6: 'null'
-  max_players: 60
+  max_players: 300
   tab_list: GLOBAL_PING
   default_server: lobby
   force_default_server: false
@@ -12,7 +12,7 @@ listener_01:
   server_icon: server-icon.png
   server_motd:
   - '&9-&a-&9-&a-&9-&a-&9-&a-&9- &a&lJunarMC RPG Network &9-&a-&9-&a-&9-&a-&9-&a-&9-'
-  - '&a&l|  &9 In Development &a&l| &a&lJunarMC &a&l| &9Releasing Soon &a&l|'
+  - '&a&l|  &9&l BETA &r&9Release &a&l| &a&lJunarMC &a&l| &9Season V &a&l|'
   allow_motd: true
   allow_query: true
   request_motd_cache:
