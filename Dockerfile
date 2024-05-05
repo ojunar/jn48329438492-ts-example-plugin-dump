@@ -11,4 +11,4 @@ EXPOSE 22
 
 COPY . .
 CMD ["ls"]
-CMD ["java", "-jar", "bungeecord.jar"]
+CMD ["java", "-jar", "waterfall-1.19-535.jar"]
