@@ -46,5 +46,5 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: emerald.magmanode.com:28786
+    address: n5.mcst.io:25574
     restricted: false
