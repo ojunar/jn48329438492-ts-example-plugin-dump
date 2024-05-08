@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&9-&a-&9-&a-&9-&a-&9-&a-&9- &a&lJunarMC RPG Network &9-&a-&9-&a-&9-&a-&9-&a-&9-'
-  - '&a&l|  &9&l BETA &r&9Release &a&l| &a&lJunarMC &a&l| &9Season V &a&l|'
+  - '&9-&a-&9-&a-&9-&a-&9-&a-&9- &a&lJunarMC Network &9-&a-&9-&a-&9-&a-&9-&a-&9-'
+  - '&a&l|  &9&l PRACTICE &r&9Release &a&l| &a&lJunarMC &a&l| &9PVP Tiers &a&l|'
   allow_motd: true
   allow_query: true
   request_motd_cache:
