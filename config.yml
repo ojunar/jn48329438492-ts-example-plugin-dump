@@ -52,3 +52,7 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: emerald.magmanode.com:28786
     restricted: false
+  skywars:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: ohio-us-01.blued.host:25633
+    restricted: false
