@@ -48,3 +48,7 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: n5.mcst.io:25574
     restricted: false
+  bridge:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: emerald.magmanode.com:28786
+    restricted: false
