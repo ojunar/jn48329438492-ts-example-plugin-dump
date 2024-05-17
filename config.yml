@@ -3,14 +3,14 @@ listeners:
 - query_port: 25565
   motd: '&1Another Bungee server'
   tab_list: GLOBAL_PING
-  query_enabled: false
+  query_enabled: true
   proxy_protocol: false
   forced_hosts:
     pvp.md-5.net: pvp
   ping_passthrough: false
   priorities:
   - lobby
-  bind_local_address: false
+  bind_local_address: true
   host: 127.0.0.1:25565
   max_players: 1
   tab_size: 60
