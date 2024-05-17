@@ -9,7 +9,7 @@ listener_01:
   forward_ip: false
   forward_ip_header: X-Real-IP
   redirect_legacy_clients_to: 'null'
-  server_icon: server-icon.png
+  server_icon: jnserver.png
   server_motd:
   - '&7<&9&kH&d>         &cb&lJN &3NETWORK         &7<&9&kH&d>'
   - '&a&l|  &6&l PRACTICE &r|&a NEW KB &a&l| &6&lRPGSURVIVAL &3&l| EARLY STAGE &a&l|'
