@@ -52,9 +52,9 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: g2.moonodes.net:25714
     restricted: false
-  lobby2:
+  boommc:
     motd: '&1Just another Waterfall - Forced Host'
-    address: g2.moonodes.net:25714
+    address: emerald.magmanode.com:27296
     restricted: false
   
 
