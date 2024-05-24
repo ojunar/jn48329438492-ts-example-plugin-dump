@@ -48,8 +48,14 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: n5.mcst.io:25574
     restricted: false
-  bridge:
+  survival:
     motd: '&1Just another Waterfall - Forced Host'
-    address: 147.75.45.12:25569
+    address: g2.moonodes.net:25714
     restricted: false
+  lobby2:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: g2.moonodes.net:25714
+    restricted: false
+  
+
 
