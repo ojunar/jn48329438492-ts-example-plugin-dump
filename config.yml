@@ -50,7 +50,7 @@ servers:
     restricted: false
   survival:
     motd: '&1Just another Waterfall - Forced Host'
-    address: g2.moonodes.net:25714
+    address: 147.75.45.12:25566
     restricted: false
   boommc:
     motd: '&1Just another Waterfall - Forced Host'
