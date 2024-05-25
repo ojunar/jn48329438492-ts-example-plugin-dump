@@ -56,6 +56,11 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: emerald.magmanode.com:27296
     restricted: false
+  survival2:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: g2.moonodes.net:25714
+    restricted: false
+  
   
 
 
