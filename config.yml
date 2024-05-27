@@ -42,7 +42,7 @@ prevent_proxy_connections: false
 online_mode: false
 forge_support: true
 disabled_commands:
-- disabledcommandhere
+- server
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
