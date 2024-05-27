@@ -46,7 +46,7 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: n5.mcst.io:25574
+    address: free6.cortexnodes.com:28022
     restricted: false
   survival:
     motd: '&1Just another Waterfall - Forced Host'
@@ -56,9 +56,9 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: emerald.magmanode.com:27296
     restricted: false
-  survival2:
+  practice:
     motd: '&1Just another Waterfall - Forced Host'
-    address: g2.moonodes.net:25714
+    address: n5.mcst.io:25574
     restricted: false
   
   
