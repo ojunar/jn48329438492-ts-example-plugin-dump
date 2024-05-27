@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnserver.png
   server_motd:
-  - '&6-&3-&6-&3-&6-&3-&6-&3-&6- &a&lJunarMC Network &6-&3-&6-&3-&6-&3-&6-&3-&6-'
-  - '&3&l|  &6&l PRACTICE &r&9New KB &a&l| &6&lRPG SURVIVAL &a&l| &aMay 25 BETA&a&l|'
+  - '§7       ⋙ ⋆ ⋅      ⋆        §8[§3JN &fNETWORK§f§8] §7       ⋆    ⋙   ✧    ⋆§r'
+  - '§7  ⋅          ⋆           §fwww.junarmc.xyz   §7⋆     ⋅        ⋅'
   allow_motd: true
   allow_query: true
   request_motd_cache:
