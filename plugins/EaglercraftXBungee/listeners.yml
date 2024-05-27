@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnserver.png
   server_motd:
-  - '§7       ⋙ ⋆ ⋅      ⋆        §8[§3JN &fNETWORK§f§8] §7       ⋆    ⋙   ✧    ⋆§r'
-  - '§7  ⋅          ⋆           §fwww.junarmc.xyz   §7⋆     ⋅        ⋅'
+  - '§7       ˙ ⊹ ⋅      ⊹        §8[§9JN §fNETWORK§8] §7       ⊹    ˙   ✧    ⊹'
+  - '§7  ⋅          ⊹           §fwww.junarmc.xyz   §7⊹     ⋅        ⋅'
   allow_motd: true
   allow_query: true
   request_motd_cache:
