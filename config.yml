@@ -60,7 +60,7 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: n5.mcst.io:25574
     restricted: false
-  practice:
+  skyblock:
     motd: '&1Just another Waterfall - Forced Host'
     address: fsn-2.ztx.gd:29350
     restricted: false
