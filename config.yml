@@ -64,6 +64,10 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: fsn-2.ztx.gd:29350
     restricted: false
+  factions:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: n4.mcst.io:8572
+    restricted: false
 
   
   
