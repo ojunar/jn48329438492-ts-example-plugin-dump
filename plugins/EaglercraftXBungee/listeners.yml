@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnserver.png
   server_motd:
-  - '§7       ˙ ⊹ ⋅      ⊹        §8[§9JN §fNETWORK§8] §7       ⊹    ˙   ✧    ⊹'
-  - '§7  ⋅          ⊹           §fwww.junarmc.xyz   §7⊹     ⋅        ⋅'
+  - '§8       »  §6§lJunarMC Network §8┃ §f[1.8 - 1.20]  §8«'
+  - '§7       §k-§e  Bedwars v§l1.0 §6● §eRecently Released!  §7§k-'
   allow_motd: true
   allow_query: true
   request_motd_cache:
