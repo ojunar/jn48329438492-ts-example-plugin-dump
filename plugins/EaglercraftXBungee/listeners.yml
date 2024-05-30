@@ -9,7 +9,7 @@ listener_01:
   forward_ip: false
   forward_ip_header: X-Real-IP
   redirect_legacy_clients_to: 'null'
-  server_icon: supjn.png
+  server_icon: server-icon.png
   server_motd:
   - '§8       »  §6§lJunarMC Network §8┃ §f[1.8 - 1.20]  §8«'
   - '§7       §k-§e  Bedwars v§l1.0 §6● §eRecently Released!  §7§k-'
