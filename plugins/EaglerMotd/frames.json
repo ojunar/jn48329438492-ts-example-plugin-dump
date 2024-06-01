@@ -1,0 +1,33 @@
+{
+	"frame1": { 
+		"icon": "1.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": [ "&6&l==IPS==", "&3[&9&lJAVA&r&3]&7 adventure.junarmc.xyz", "&3[&a&lEAGLER&r&3]&7 wss://strike.junarmc.xyz"],
+		"text0": "§8       »  §6§l&nJunarMC&r&6&l Network §8┃ §f[1.8 - 1.20]  §8«",
+		"text1": "§7       §k-§e  Bedwars v§l1.0 §6● §eRecently Released!  §7§k-"
+	},
+	"frame2": { 
+		"icon": "2.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 0.0, 0.0, 0.15 ],
+		"online": 10,
+		"players": [ "&6&l==NEWS==", "&3[1] &fSURVIVAL 2.0 RELEASED.", "&3[2] &fBEDWARS 2.0 RELEASED."],
+		"text0": "§8       »  §9§lJunarMC &nNetwork&r §8┃ §f[1.8 - 1.20]  §8«",
+		"text1": "§7       §k-§e  Survival v§l2.0 §6● §eDungeons Update §7§k-"
+	},
+	"frame3": { 
+		"icon": "3.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"icon_color": [ 1.0, 0.0, 0.0, 0.15 ],
+		"icon_tint": [ 0.8, 0.8, 1.0 ],
+		"online": 20,
+		"players": ["&6&l==DISCORD==", "&9dsc.gg/jnmc"],
+		"text0": "§8       »  §a§lJunarMC Network §8┃ §f&n[1.8 - 1.20]&r  §8«",
+		"text1": "§7       §k-§e  Practice v§l6.0 §6● §eDecent KB!  §7§k-"
+	}
+}
