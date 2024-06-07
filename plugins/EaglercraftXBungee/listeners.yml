@@ -7,7 +7,7 @@ listener_01:
   default_server: lobby
   force_default_server: false
   forward_ip: true
-  forward_ip_header: True-Client-IP
+  forward_ip_header: X-Forwarded-For
   redirect_legacy_clients_to: 'null'
   server_icon: 1.png
   server_motd:
