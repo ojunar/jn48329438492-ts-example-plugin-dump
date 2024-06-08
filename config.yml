@@ -54,7 +54,7 @@ servers:
     restricted: false
   boommc:
     motd: '&1Just another Waterfall - Forced Host'
-    address: emerald.magmanode.com:27296
+    address: ruby.magmanode.com:26151
     restricted: false
   practice:
     motd: '&1Just another Waterfall - Forced Host'
