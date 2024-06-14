@@ -46,7 +46,7 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: free6.cortexnodes.com:28022
+    address: free6.cortexnodes.com:26705
     restricted: false
   survival:
     motd: '&1Just another Waterfall - Forced Host'
@@ -62,7 +62,7 @@ servers:
     restricted: false
   skyblock:
     motd: '&1Just another Waterfall - Forced Host'
-    address: fsn-2.ztx.gd:29350
+    address: stl1.us.blare.host:25759
     restricted: false
   factions:
     motd: '&1Just another Waterfall - Forced Host'
