@@ -9,7 +9,7 @@ listener_01:
   forward_ip: false
   forward_ip_header: Real-Client-IP
   redirect_legacy_clients_to: 'null'
-  server_icon: 1.png
+  server_icon: jnserver.png
   server_motd:
   - '§8       »  §6§lJunarMC Network §8┃ §f[1.8 - 1.20]  §8«'
   - '§7       §k-§e  Bedwars v§l1.0 §6● §eRecently Released!  §7§k-'
