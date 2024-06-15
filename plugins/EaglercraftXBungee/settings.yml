@@ -2,7 +2,7 @@ server_name: 'EaglercraftXBungee Server'
 server_uuid: fc4d2b55-fa34-4869-b7b1-0acb1f42cb91
 websocket_connection_timeout: 95000
 websocket_handshake_timeout: 10000
-http_websocket_compression_level: 99999
+http_websocket_compression_level: 40
 download_vanilla_skins_to_clients: true
 valid_skin_download_urls:
  - 'textures.minecraft.net'
