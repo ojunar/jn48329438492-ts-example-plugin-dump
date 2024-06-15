@@ -16,7 +16,7 @@ listeners:
   tab_size: 60
   force_default_server: true
 remote_ping_cache: -1
-network_compression_threshold: 1000
+network_compression_threshold: 100
 permissions:
   default:
   - bungeecord.command.server
