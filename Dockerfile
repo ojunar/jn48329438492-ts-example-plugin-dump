@@ -11,6 +11,6 @@ EXPOSE 22
 
 COPY . .
 CMD ["ls"]
-CMD ["java", "-Xms64M", "-Xmx300M", "-XX:+UseG1GC", "-XX:G1HeapRegionSize=4M", "-XX:+UnlockExperimentalVMOptions", "-XX:+ParallelRefProcEnabled", "-XX:+AlwaysPreTouch", "-XX:MaxInlineLevel=15", "-Dterminal.jline=false", "-Dterminal.ansi=true", "-jar", "IvanCord.jar"]
+CMD ["java", "-Xms64M", "-Xmx300M", "-XX:+UseG1GC", "-XX:G1HeapRegionSize=4M", "-XX:+UnlockExperimentalVMOptions", "-XX:+ParallelRefProcEnabled", "-XX:+AlwaysPreTouch", "-XX:MaxInlineLevel=15", "-Dterminal.jline=false", "-Dterminal.ansi=true", "-jar", "waterfall-1.19-535.jar"]
 
 
