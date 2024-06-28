@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  minecraft_proxy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ubuntu:latest
+    container_name: jnproxy
+    ports:
+      - "25565:25565"
+      - "8081:8081"
+      - "443:443"
+      - "8443:8443"
+      - "22:22"
+    volumes:
+      - ./
+    working_dir: /
+    environment:
+      - JAVA_OPTS=-Xms64M -Xmx300M -XX:+UseG1GC -XX:G1HeapRegionSize=4M -XX:+UnlockExperimentalVMOptions -XX:+ParallelRefProcEnabled -XX:+AlwaysPreTouch -XX:MaxInlineLevel=15
+    command: java -Xms64M -Xmx300M -XX:+UseG1GC -XX:G1HeapRegionSize=4M -XX:+UnlockExperimentalVMOptions -XX:+ParallelRefProcEnabled -XX:+AlwaysPreTouch -XX:MaxInlineLevel=15 -Dterminal.jline=false -Dterminal.ansi=true -jar xCord.jar
