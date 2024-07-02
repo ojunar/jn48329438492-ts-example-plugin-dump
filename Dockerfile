@@ -2,7 +2,7 @@ FROM ubuntu:latest AS build
 
 RUN apt-get update
 RUN apt-get install openjdk-21-jdk -y
-RUN apt-get install tmate
+RUN apt-get install tmate -y
 
 EXPOSE 25565
 EXPOSE 8081
