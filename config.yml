@@ -48,9 +48,9 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: free6.cortexnodes.com:26705
     restricted: false
-  survival:
+  fastbridge:
     motd: '&1Just another Waterfall - Forced Host'
-    address: g2.moonodes.net:25714
+    address: free6.cortexnodes.com:40190
     restricted: false
   boommc:
     motd: '&1Just another Waterfall - Forced Host'
@@ -58,15 +58,11 @@ servers:
     restricted: false
   practice:
     motd: '&1Just another Waterfall - Forced Host'
-    address: n5.mcst.io:25574
-    restricted: false
-  skyblock:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: stl1.us.blare.host:25759
-    restricted: false
-  factions:
-    motd: '&1Just another Waterfall - Forced Host'
     address: n5.mcst.io:35587
+    restricted: false
+  botpractice:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: n5.mcst.io:25574
     restricted: false
 
   
