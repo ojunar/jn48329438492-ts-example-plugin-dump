@@ -12,7 +12,7 @@ listener_01:
   server_icon: jnserver.png
   server_motd:
   - '§8       »  §6§lJunarMC Network §8┃ §f[1.8 - 1.20]  §8«'
-  - '§7       §k-§e  Bedwars v§l1.0 §6● §eRecently Released!  §7§k-'
+  - '§7       §k-§e  Practice v§l7.0 §6● §eRecently Released!  §7§k-'
   allow_motd: true
   allow_query: true
   request_motd_cache:
