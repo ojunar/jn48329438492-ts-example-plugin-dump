@@ -46,7 +46,7 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: free6.cortexnodes.com:26705
+    address: uk02.legacynodes.com:2049
     restricted: false
   fastbridge:
     motd: '&1Just another Waterfall - Forced Host'
