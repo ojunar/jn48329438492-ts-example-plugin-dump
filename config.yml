@@ -60,9 +60,9 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: n5.mcst.io:35587
     restricted: false
-  botpractice:
+  skyblock:
     motd: '&1Just another Waterfall - Forced Host'
-    address: n5.mcst.io:25574
+    address: g2.moonodes.net:25714
     restricted: false
 
   
