@@ -1,7 +1,7 @@
 enforce_secure_profile: false
 listeners:
-- query_port: 25565
-  motd: '&1Another Bungee server'
+- query_port: 8081
+  motd: '&6JN Reborn | Java'
   tab_list: GLOBAL_PING
   query_enabled: true
   proxy_protocol: false
@@ -11,7 +11,7 @@ listeners:
   priorities:
   - lobby
   bind_local_address: true
-  host: 127.0.0.1:25565
+  host: 127.0.0.1:8081
   max_players: 1
   tab_size: 60
   force_default_server: true
