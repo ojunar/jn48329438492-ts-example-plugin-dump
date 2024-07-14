@@ -58,7 +58,7 @@ servers:
     restricted: false
   practice:
     motd: '&1Just another Waterfall - Forced Host'
-    address: n5.mcst.io:35587
+    address: n5.mcst.io:25574
     restricted: false
   skyblock:
     motd: '&1Just another Waterfall - Forced Host'
