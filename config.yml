@@ -44,7 +44,7 @@ forge_support: true
 disabled_commands:
 - server
 servers:
-  lobby:
+  lobby3:
     motd: '&1Just another Waterfall - Forced Host'
     address: uk02.legacynodes.com:2049
     restricted: false
@@ -56,7 +56,7 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: ruby.magmanode.com:26151
     restricted: false
-  practice:
+  lobby:
     motd: '&1Just another Waterfall - Forced Host'
     address: n5.mcst.io:25574
     restricted: false
