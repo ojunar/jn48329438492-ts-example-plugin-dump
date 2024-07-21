@@ -42,15 +42,15 @@ prevent_proxy_connections: false
 online_mode: false
 forge_support: true
 disabled_commands:
-- server
+- se
 servers:
   lobby3:
     motd: '&1Just another Waterfall - Forced Host'
     address: uk02.legacynodes.com:2049
     restricted: false
-  fastbridge:
+  bwhub:
     motd: '&1Just another Waterfall - Forced Host'
-    address: free6.cortexnodes.com:40190
+    address: whitney.tegra.gg:25171
     restricted: false
   boommc:
     motd: '&1Just another Waterfall - Forced Host'
