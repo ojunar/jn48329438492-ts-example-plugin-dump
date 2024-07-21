@@ -9,7 +9,7 @@ listener_01:
   forward_ip: false
   forward_ip_header: X-Forwarded-Server
   redirect_legacy_clients_to: 'null'
-  server_icon: jnserver.png
+  server_icon: jnnetwork.png
   server_motd:
   - '§9§lJN NETWORK§7 - §d[1.7-1.8]'
   - '§b&lNew Knockback + Updated Practice Core!'
