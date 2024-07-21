@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnserver.png
   server_motd:
-  - '§8       »  §6§lJunarMC Network §8┃ §f[1.8 - 1.20]  §8«'
-  - '§7       §k-§e  Practice v§l7.0 §6● §eRecently Released!  §7§k-'
+  - '§9§lJN NETWORK§7 - §d[1.7-1.8]'
+  - '§b&lNew Knockback + Updated Practice Core!'
   allow_motd: true
   allow_query: true
   request_motd_cache:
