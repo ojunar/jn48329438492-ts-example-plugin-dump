@@ -60,9 +60,9 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: n5.mcst.io:25574
     restricted: false
-  skyblock:
+  electron:
     motd: '&1Just another Waterfall - Forced Host'
-    address: g2.moonodes.net:25714
+    address: 2.124.249.171:25559
     restricted: false
 
   
