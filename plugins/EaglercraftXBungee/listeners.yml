@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnicon.png
   server_motd:
-  - '§3§lJN NETWORK§7 - §d[1.7-1.8]'
-  - '§b&lNew Knockback + Updated Practice Core!'
+  - '             &b「&3&lJN NETWORK &7- &b1.7&3-&b1.8&3」&r'
+  - '     &3》&b&lNEW Knockback &3✦ &9&lUPDATED &9&lPractice Core&3《'
   allow_motd: true
   allow_query: true
   request_motd_cache:
