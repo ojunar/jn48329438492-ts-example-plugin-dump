@@ -58,7 +58,7 @@ servers:
     restricted: false
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: n5.mcst.io:25574
+    address: 172.93.102.146:7548
     restricted: false
   skyblock:
     motd: '&1Just another Waterfall - Forced Host'
