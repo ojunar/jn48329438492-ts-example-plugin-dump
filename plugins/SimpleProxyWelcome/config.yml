@@ -1,0 +1,23 @@
+servers:
+  all:
+    chat:
+      enable: true
+      lines:
+      - '&c%player% &e> &aWelcome to the server &e%server%&a!'
+      - '&7Online here: &e%online% &7(Total: &d%all_online%&7)'
+    title:
+      enable: true
+      line1: '&cWelcome,'
+      line2: '&a&n%player%'
+    enable: true
+  lobby:
+    chat:
+      enable: true
+      lines:
+      - '&c%player% &e> &aWelcome to the Lobby!'
+      - '&7Online here: &e%online% &7(Total: &d%all_online%&7)'
+    title:
+      enable: true
+      line1: '&cWelcome,'
+      line2: '&a&n%player%'
+    enable: true

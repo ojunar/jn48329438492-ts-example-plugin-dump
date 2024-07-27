@@ -1,0 +1,67 @@
+# ==========================================================
+#                       INFORMATION
+#                 HEX Values are Supported
+#  Example: <#FFFFFF>Some text</#FFFFFF> this is a message!
+#         Supports Mini-Message/Legacy Color Codes
+# ==========================================================
+
+# True if you will be using Discord. The reload command does not work with this.
+use-discord: false
+
+# Discord Bot Token (IGNORE IF use_discord = false). The reload command does not work with this.
+BOT-TOKEN: TOKEN_HERE
+
+# Channel to send Discord messages to (IGNORE IF use_discord = false). The reload command does not work with this.
+CHANNEL-ID: GLOBAL_CHANNEL_ID
+
+bot-activity:
+  # Valid Types: PLAYING, STREAMING, LISTENING, WATCHING, COMPETING
+  type: COMPETING
+  text: SimpleProxyChat by beanbeanjuice
+
+# The amount of seconds to check if a server is online/offline.
+# Smaller numbers can cause errors. Beware.
+server-update-interval: 3
+
+# Use this if you want to change the default aliases.
+# It MUST be the same name you have in your bungee/velocity config.
+# Simply set it to disabled: disabled to disable it.
+aliases:
+  ServerInConfigExample: ServerAliasExample
+  hub: Hub1
+  smp: smp1
+
+# Whether to use the permission system.
+# simpleproxychat.read.chat - Read chat messages.
+# simpleproxychat.read.join - Read join messages.
+# simpleproxychat.read.leave - Read leave messages.
+# simpleproxychat.read.fake - Read the fake join/leave messages. Players must also have the REAL join/leave permission.
+# simpleproxychat.read.switch - Read switch messages.
+# simpleproxychat.read.update - ALWAYS active whether use-permissions is false or not.
+# simpleproxychat.reload - ALWAYS Active whether use-permissions is false or not.
+use-permissions: false
+
+# Only messages that start with this character will be sent through the plugin.
+# Set to '' to disable.
+# Example: If it is set to '$', then when a player sends $hello, it will be sent through the proxy.
+proxy-message-prefix: ''
+
+# Whether to send if the statuses of the servers connected to the proxy when the proxy starts up.
+# THIS IS FOR DISCORD MESSAGES ONLY.
+use-initial-server-status: true
+
+# Whether to send a fake join/leave message when vanishing/unvanishing.
+use-fake-messages: true
+
+# Format: https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html
+# Timezone: https://www.joda.org/joda-time/timezones.html
+timestamp:
+  # If your server is prone to getting off-sync on the time you can use an API.
+  # WARNING: Using the API will make messages somewhat longer to send.
+  # Additionally, the maximum accuracy will only be up to 1 minute, rather than seconds.
+  use-api: false
+  format: hh:mm a
+  timezone: America/Los_Angeles
+
+# DO NOT TOUCH THIS
+file-version: 9
