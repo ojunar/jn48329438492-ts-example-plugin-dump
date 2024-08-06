@@ -30,11 +30,11 @@ listener_01:
     - 'index.htm'
   ratelimit:
     ip:
-      enable: false
-      period: 90
-      limit: 60
-      limit_lockout: 80
-      lockout_duration: 1200
+      enable: true
+      period: 1
+      limit: 50
+      limit_lockout: 50
+      lockout_duration: 30
       exceptions:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
@@ -57,7 +57,7 @@ listener_01:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
     query:
-      enable: false
+      enable: true
       period: 30
       limit: 15
       limit_lockout: 25
