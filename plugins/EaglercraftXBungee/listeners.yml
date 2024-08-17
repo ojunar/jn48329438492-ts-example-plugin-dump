@@ -9,7 +9,7 @@ listener_01:
   forward_ip: false
   forward_ip_header: X-Forwarded-Server
   redirect_legacy_clients_to: 'null'
-  server_icon: jnicon.png
+  server_icon: jnlogo.png
   server_motd:
   - '§r §7▎ §1§lJUNARMC §7▎ §61.8§7-§61.20 §7▎ §2play.junarmc.xyz §7▎'
   - '§6⚒ §aCustom RPG in Minecraft §6⚒'
