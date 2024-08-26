@@ -42,7 +42,7 @@ stats: 962f574d-6f3f-40f8-9b2a-2c0467a28290
 online_mode: false
 forge_support: true
 disabled_commands:
-- se
+- server
 servers:
   lobby3:
     motd: '&1Just another Waterfall - Forced Host'
