@@ -48,9 +48,9 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: uk02.legacynodes.com:2049
     restricted: false
-  bwhub:
+  lifesteal:
     motd: '&1Just another Waterfall - Forced Host'
-    address: whitney.tegra.gg:25171
+    address: freeus1.qfiedge.com:7364
     restricted: false
   survival:
     motd: '&1Just another Waterfall - Forced Host'
