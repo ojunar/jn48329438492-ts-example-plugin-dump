@@ -48,7 +48,7 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: uk02.legacynodes.com:2049
     restricted: false
-  lifesteal:
+  practice:
     motd: '&1Just another Waterfall - Forced Host'
     address: freeus1.qfiedge.com:7364
     restricted: false
@@ -60,7 +60,7 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: freeus1.qfiedge.com:8928
     restricted: false
-  practice:
+  lifesteal:
     motd: '&1Just another Waterfall - Forced Host'
     address: 172.93.102.146:8485
     restricted: false
