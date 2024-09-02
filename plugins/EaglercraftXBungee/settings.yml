@@ -1,8 +1,8 @@
 server_name: 'EaglerXDropplet Server (JN)'
 server_uuid: fc4d2b55-fa34-4869-b7b1-0acb1f42cb91
-websocket_connection_timeout: 950000
-websocket_handshake_timeout: 100000
-http_websocket_compression_level: 9
+websocket_connection_timeout: 95000
+websocket_handshake_timeout: 90000
+http_websocket_compression_level: 7
 download_vanilla_skins_to_clients: true
 valid_skin_download_urls:
  - 'textures.minecraft.net'
@@ -18,4 +18,4 @@ skin_cache_max_profiles: 32768
 skin_cache_antagonists_ratelimit: 15
 sql_driver_class: 'internal'
 sql_driver_path: 'internal'
-eagler_players_vanilla_skin: 'Azumo'
+eagler_players_vanilla_skin: 'Blushhy'
