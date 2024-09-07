@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnlogo.png
   server_motd:
-  - '§r §7▎ §1§lJUNARMC §7▎ §61.8§7-§61.20 §7▎ §2play.junarmc.xyz §7▎'
-  - '§6⚒ §aCustom RPG in Minecraft §6⚒'
+  - '&b&lJN NETWORK &c&k|&r&k|&r&k|&r &3&nThe Beyond Lands'
+  - '§d[&bJN&d] &6⚒ Maintainance Era &a&k|&r&k|&r&k|&r &6Sep 11'
   allow_motd: true
   allow_query: true
   request_motd_cache:
