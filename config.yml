@@ -44,9 +44,9 @@ forge_support: true
 disabled_commands:
 - server
 servers:
-  lobby3:
+  soon:
     motd: '&1Just another Waterfall - Forced Host'
-    address: uk02.legacynodes.com:2049
+    address: node2sg.soulnode.online:6536
     restricted: false
   practice:
     motd: '&1Just another Waterfall - Forced Host'
