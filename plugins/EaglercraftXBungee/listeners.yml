@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnlogo.png
   server_motd:
-  - '&b&lJN NETWORK &c&k|&r&k|&r&k|&r &3&nThe Beyond Lands'
-  - '§d[&bJN&d] &6Beyond Era &a&k|&r&k|&r&k|&r &c&lMAINTAINANCE'
+  - '§f§l[§7§lJN§f§l §b§lNETWORK§f§l] §9§l§nGLOBAL §c§l§nNETWORK§9§l§n §b§l§nRELEASE'
+  - '§c⛏§f§l §4§lRPG§f§l SURVIVAL §k| §d§lBOT/PLAYER §f§lPRACTICE'
   allow_motd: true
   allow_query: true
   request_motd_cache:
