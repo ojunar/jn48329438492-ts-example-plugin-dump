@@ -12,7 +12,7 @@ listener_01:
   server_icon: jnlogo.png
   server_motd:
   - '§f§l[§7§lJN§f§l §b§lNETWORK§f§l] §9§l§nGLOBAL §c§l§nNETWORK§9§l§n §b§l§nRELEASE'
-  - '§c⛏§f§l §4§lRPG§f§l SURVIVAL §k| §d§lBOT/PLAYER §f§lPRACTICE'
+  - '§c❤§f§l §4§lRPG§f§l SURVIVAL §k| §d§lBOT/PLAYER §f§lPRACTICE'
   allow_motd: true
   allow_query: true
   request_motd_cache:
