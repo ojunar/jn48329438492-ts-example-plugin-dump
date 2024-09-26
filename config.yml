@@ -64,3 +64,8 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: 172.93.102.146:8485
     restricted: false
+  skyblock:
+    motd: '&1Just another Waterfall - Forced Host'
+    address: freeus2.qfiedge.com:7462
+
+    restricted: false
