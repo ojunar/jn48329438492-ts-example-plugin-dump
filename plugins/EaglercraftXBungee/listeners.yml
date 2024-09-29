@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnlogo.png
   server_motd:
-  - '§f§l[§7§lJN§f§l §b§lNETWORK§f§l] §9§l§nGLOBAL §c§l§nNETWORK§9§l§n §b§l§nRELEASE'
-  - '§c❤§f§l §4§lRPG§f§l SURVIVAL §k|&r §d§lBOT/PLAYER §f§lPRACTICE'
+  - '§r                  §b§lJN NETWORK§7 §n[§f§n1.8§7§n-§f§n1.20§7§n]§7'
+  - '§7                  §lBEYOND ERA§c [S11]     '
   allow_motd: true
   allow_query: true
   request_motd_cache:
