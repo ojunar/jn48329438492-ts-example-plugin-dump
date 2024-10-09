@@ -46,7 +46,7 @@ disabled_commands:
 servers:
   soon:
     motd: '&1Just another Waterfall - Forced Host'
-    address: node2sg.soulnode.online:6536
+    address: us1.plutonodes.net:25329
     restricted: false
   practice:
     motd: '&1Just another Waterfall - Forced Host'
