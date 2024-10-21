@@ -14,7 +14,7 @@ COPY . .
 # Create a startup script
 RUN echo '#!/bin/bash\n\
 java -Xms64M -Xmx300M -XX:+UseG1GC -XX:G1HeapRegionSize=4M -XX:+UnlockExperimentalVMOptions -XX:+ParallelRefProcEnabled -XX:+AlwaysPreTouch -XX:MaxInlineLevel=15 -Dterminal.jline=false -Dterminal.ansi=true -jar waterfall-1.19-535.jar << EOF &\n\
-confirm-code d29781211b\n\
+confirm-code 307b60f7a8\n\
 EOF\n\
 wait' > /start.sh && chmod +x /start.sh
 
