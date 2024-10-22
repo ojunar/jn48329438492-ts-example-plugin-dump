@@ -68,15 +68,15 @@ database:
   #  |=> MariaDB
   #  |=> MySQL
   #  |=> SQLite
-  type: SQLite
+  type: MySQL
 
   remote:
     # Defines MariaDB/MySQL information.
     # - Tutorial for installation: https://docs.nickuc.com/nlogin/mysql
-    hostname: "localhost:3306"
-    database: "nLogin"
-    username: "root"
-    password: ""
+    hostname: "37.187.149.30:3306"
+    database: "s10715_nlogin"
+    username: "u10715_iOxwrFy5dN"
+    password: passwordxd
 
     # Set the connection properties.
     # - Don't change this information if you don't know what you are doing!

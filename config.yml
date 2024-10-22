@@ -67,5 +67,4 @@ servers:
   skyblock:
     motd: '&1Just another Waterfall - Forced Host'
     address: freeus2.qfiedge.com:7462
-
     restricted: false

@@ -1,0 +1,20 @@
+[2024/10/22 22:02:17]: §9          __             _       
+[2024/10/22 22:02:17]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/10/22 22:02:17]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/10/22 22:02:17]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/10/22 22:02:17]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/10/22 22:02:17]: §9                  |___/            
+[2024/10/22 22:02:17]: §9 By: www.nickuc.com - V 10.4.13 DEVELOPMENT
+[2024/10/22 22:02:17]: §9 
+[2024/10/22 22:02:17]: §3[nLogin] [DEBUG] All settings were loaded in 303 ms.
+[2024/10/22 22:02:17]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/10/22 22:02:17]: §3[nLogin] [DEBUG] All plugin messages were loaded in 161 ms (languageByClient=false).
+[2024/10/22 22:02:17]: §3[nLogin] [DEBUG] All proxy settings were loaded in 10 ms.
+[2024/10/22 22:02:17]: §3[nLogin] [DEBUG] Loading database...
+[2024/10/22 22:02:19]: §4[nLogin] [ERROR] §c
+[2024/10/22 22:02:19]: §4[nLogin] [ERROR] §cThe database could not be initialized.
+[2024/10/22 22:02:19]: §4[nLogin] [ERROR] §cPlease make sure you are entering your credentials correctly.
+[2024/10/22 22:02:19]: §4[nLogin] [ERROR] §c
+[2024/10/22 22:02:19]: §4[nLogin] [ERROR] §cTutorial for installing MySQL: §bdocs.nickuc.com/nlogin/mysql
+[2024/10/22 22:02:19]: §4[nLogin] [ERROR] §cServer will shut down in 30 seconds
+[2024/10/22 22:02:19]: §4[nLogin] [ERROR] §c

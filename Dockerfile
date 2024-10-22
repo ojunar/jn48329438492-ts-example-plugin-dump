@@ -1,5 +1,8 @@
 FROM ubuntu:latest
 
+# Set the environment variable for the password
+ENV PASSWORD="JjwXujz50B=P.5E62SuXbff7"
+
 # Install necessary packages
 RUN apt-get update && apt-get install -y \
     openjdk-21-jdk \
@@ -17,6 +20,9 @@ java -Xms64M -Xmx300M -XX:+UseG1GC -XX:G1HeapRegionSize=4M -XX:+UnlockExperiment
 confirm-code a78fbe3267\n\
 EOF\n\
 wait' > /start.sh && chmod +x /start.sh
+
+# Replace 'passwordxd' with the value of the PASSWORD environment variable in plugins/nLogin/config.yml
+RUN sed -i "s/passwordxd/\"$PASSWORD\"/g" plugins/nLogin/config.yml
 
 # Set the startup script as the entry point
 CMD ["/start.sh"]
