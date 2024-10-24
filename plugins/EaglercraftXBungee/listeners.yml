@@ -12,7 +12,7 @@ listener_01:
   server_icon: jnlogo.png
   server_motd:
   - '§r                  §b§lJN NETWORK§7 §n[§f§n1.8§7§n-§f§n1.20§7§n]§7'
-  - '§7                  §lBEYOND ERA§c [S11]     '
+  - '§7                  §lFOREIGN LANDS§c &7[&a&lRELEASED&r&7]    '
   allow_motd: true
   allow_query: true
   request_motd_cache:
