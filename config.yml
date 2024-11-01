@@ -58,13 +58,13 @@ servers:
     restricted: false
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: freeus1.qfiedge.com:8928
+    address: freeus2.qfiedge.com:7462
     restricted: false
-  lifesteal:
+  survival:
     motd: '&1Just another Waterfall - Forced Host'
     address: 172.93.102.146:8485
     restricted: false
-  skyblock:
+  lifesteal:
     motd: '&1Just another Waterfall - Forced Host'
-    address: freeus2.qfiedge.com:7462
+    address: freeus1.qfiedge.com:8928
     restricted: false
