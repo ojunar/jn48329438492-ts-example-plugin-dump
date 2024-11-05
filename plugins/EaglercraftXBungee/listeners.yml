@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnlogo.png
   server_motd:
-  - '§r          §b§lJN NETWORK§7 §n[§f§n1.8§7§n-§f§n1.20§7§n]§7'
-  - '§7          §lFOREIGN LANDS§c &7[&a&lRELEASED&r&7]    '
+  - '§a§l↳ J§b§lN | §6§n#1 §c§n§lEAGLERPG§d§n§l NETWORK ⤵'
+  - '§e§l↳§e §a§lDUNGEONS §f§l❤§a§l §b§lQUESTS §f§l❤ §d§lSKILLS'
   allow_motd: true
   allow_query: true
   request_motd_cache:
