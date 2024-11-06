@@ -9,9 +9,7 @@ listeners:
     pvp.md-5.net: pvp
   ping_passthrough: false
   priorities:
-  - survival
   - lobby
-  - lifesteal
   bind_local_address: true
   host: 127.0.0.1:8081
   max_players: 1
@@ -56,13 +54,9 @@ servers:
     restricted: false
   survival:
     motd: '&1Just another Waterfall - Forced Host'
-    address: freeus1.qfiedge.com:8928
-    restricted: false
-  lobby:
-    motd: '&1Just another Waterfall - Forced Host'
     address: freeus2.qfiedge.com:7462
     restricted: false
-  survival:
+  lobby:
     motd: '&1Just another Waterfall - Forced Host'
     address: 172.93.102.146:8485
     restricted: false
