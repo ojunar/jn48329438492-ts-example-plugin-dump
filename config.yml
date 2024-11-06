@@ -52,11 +52,11 @@ servers:
     motd: '&1Just another Waterfall - Forced Host'
     address: freeus1.qfiedge.com:7364
     restricted: false
-  survival:
+  lobby:
     motd: '&1Just another Waterfall - Forced Host'
     address: freeus2.qfiedge.com:7462
     restricted: false
-  lobby:
+  survival:
     motd: '&1Just another Waterfall - Forced Host'
     address: 172.93.102.146:8485
     restricted: false
