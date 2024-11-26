@@ -44,23 +44,8 @@ forge_support: true
 disabled_commands:
 - server
 servers:
-  soon:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: us1.plutonodes.net:25329
-    restricted: false
-  practice:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: freeus1.qfiedge.com:7364
-    restricted: false
   lobby:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: freeus2.qfiedge.com:7462
-    restricted: false
-  survival:
-    motd: '&1Just another Waterfall - Forced Host'
-    address: 172.93.102.146:8485
-    restricted: false
-  lifesteal:
     motd: '&1Just another Waterfall - Forced Host'
     address: freeus1.qfiedge.com:8928
     restricted: false
+
