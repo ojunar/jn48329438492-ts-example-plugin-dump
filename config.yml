@@ -46,6 +46,6 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: freeus1.qfiedge.com:8928
+    address: jnlifesteal.falixsrv.me
     restricted: false
 
