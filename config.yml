@@ -46,6 +46,6 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: jnlifesteal.falixsrv.me
+    address: hypixel.net
     restricted: false
 
