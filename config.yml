@@ -46,6 +46,6 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: node-it-free-01.tickhosting.com:50567
+    address: us-1.hectorhosting.xyz:25652
     restricted: false
 
