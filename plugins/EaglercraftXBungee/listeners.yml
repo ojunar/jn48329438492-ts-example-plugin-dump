@@ -11,8 +11,8 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnlogo.png
   server_motd:
-  - '§a§l↳ J§b§lN | §6§n#1 §c§n§lEAGLERPG§d§n§l NETWORK ⤵'
-  - '§e§l↳§e §a§lDUNGEONS §f§l❤§a§l §b§lQUESTS §f§l❤ §d§lSKILLS'
+  - '§a§l↳ J§b§lN | §6§nLIFESTEAL RELEASED ⤵'
+  - '§e§l↳§e §a§ddsc.gg/joinjnmc | §f§l❤§b§lDiscord'
   allow_motd: true
   allow_query: true
   request_motd_cache:
