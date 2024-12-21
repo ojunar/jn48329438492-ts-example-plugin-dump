@@ -46,6 +46,6 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: us-1.hectorhosting.xyz:25634
+    address: eu-1.hectorhosting.xyz:25585
     restricted: false
 
