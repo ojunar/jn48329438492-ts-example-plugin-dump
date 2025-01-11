@@ -11,8 +11,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnlogo.png
   server_motd:
-  - '&8&l//&r &b&lThe JN Network &8&l// &a&l  Lifesteal Released   &8&l//&r &e   &8'
-  - '&l//       &e&l HEADLINE      &8&l//    &a&lLag Fixed   &8&l//'
+  - '&b&lJN Network |  We Might Be Back'
   allow_motd: true
   allow_query: true
   request_motd_cache:
