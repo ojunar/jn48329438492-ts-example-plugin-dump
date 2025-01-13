@@ -46,6 +46,6 @@ disabled_commands:
 servers:
   lobby:
     motd: '&1Just another Waterfall - Forced Host'
-    address: node1.hostingkarle.com:25703
+    address: 65.108.224.31:26308
     restricted: false
 
