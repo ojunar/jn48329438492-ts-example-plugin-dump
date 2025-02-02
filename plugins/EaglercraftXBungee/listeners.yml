@@ -11,7 +11,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: jnlogo.png
   server_motd:
-  - '&b&lJN Network |  We Might Be Back'
+  - '&bJUNAR.US &3| &n&9&odsc.gg/joinjnmc'
   allow_motd: true
   allow_query: true
   request_motd_cache:
